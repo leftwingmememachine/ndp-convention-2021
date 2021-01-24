@@ -1,3 +1,11 @@
+Below is the [2018 NDP Policy Book](https://xfer.ndp.ca/2020/documents/2018-POLICY.pdf) with most of the formatting removed.
+
+A variety of automated tools were used to convert this from its original
+PDF form into the below content. Because of this, its possible there may
+be errors. Sections may be mislabeled, there may be typos. I tried my best
+to correct those errors but there is no guarantee of correctness here.
+
+
 # SECTION 1
 
 # INNOVATING AND PROSPERING IN A NEW ENERGY ECONOMY 
