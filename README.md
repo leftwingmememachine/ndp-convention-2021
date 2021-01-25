@@ -6,6 +6,34 @@ PDF form into the below content. Because of this, its possible there may
 be errors. Sections may be mislabeled, there may be typos. I tried my best
 to correct those errors but there is no guarantee of correctness here.
 
+- [SECTION 1 - INNOVATING AND PROSPERING IN A NEW ENERGY ECONOMY](#section-1)
+    * [1.1 - Industrial policy: Supporting strategic sectors](#11)
+    * [1.2 - Resource industries and natural resources](#12)
+    * [1.3 - Physical infrastructure and transportation](#13)
+    * [1.4 - Physical infrastructure and transportation](#14)
+    * [1.5 - Jobs and monetary policy](#15)
+    * [1.6 - Finance and budgetary policies](#16)
+    * [1.7 - Progressive and fair taxation](#17)
+    * [1.8 - Financial sector and investments](#18)
+    * [1.9 - Agriculture and fisheries](#19)
+    * [1.10 - The public sector](#110)
+    * [1.11 - Community economic development and cooperatives](#111)
+    * [1.12 - Our rights as workers](#112)
+    * [1.13 - Our rights as consumers](#113)
+- [SECTION 2 - BUILDING A CLEAN AND SUSTAINABLE CANADA](#section-2)
+    * [2.1 - Protecting nature and our ecosystems](#21)
+    * [2.2 - Water](#22)
+    * [2.3 - Climate change](#23)
+    * [2.4 - Energy](#24)
+    * [2.5 - Food security and food sovereignty](#25)
+    * [2.6 - Towards a green and sustainable economy](#26)
+    * [2.7 - Showing green leadership to the world](#27)
+    * [2.8 - Environmental Rights](#28)
+- [SECTION 3 - INVESTING IN A CANADA WHERE NO ONE IS LEFT BEHIND](#section-3)
+    * [3.1 - Health](#31)
+    * [3.2 - Post-secondary education and training](#32)
+    * [3.3 - Early childhood education](#33)
+
 # SECTION 1
 
 # INNOVATING AND PROSPERING IN A NEW ENERGY ECONOMY 
