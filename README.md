@@ -78,8 +78,7 @@ these goals and build a green and prosperous Canada where no one is left behind.
 
 New Democrats believe in:
 
-a.  Investing in job creation by developing a green economy with
-    appropriate support for transition programs and for research and development.
+a.  This is an example amendment to the policy book.
 
 b.  Establishing sector-specific policies tailored to industry needs,
     with emphasis on ensuring the long-term viability of our
