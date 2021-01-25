@@ -1,10 +1,10 @@
-Below is the [2018 NDP Policy Book](https://xfer.ndp.ca/2020/documents/2018-POLICY.pdf) with most of the formatting removed.
+Below is the [2018 NDP Policy Book](https://xfer.ndp.ca/2020/documents/2018-POLICY.pdf)
+with most of the formatting removed, and with an added table of contents.
 
 A variety of automated tools were used to convert this from its original
 PDF form into the below content. Because of this, its possible there may
 be errors. Sections may be mislabeled, there may be typos. I tried my best
 to correct those errors but there is no guarantee of correctness here.
-
 
 # SECTION 1
 
@@ -527,7 +527,7 @@ f.  Encouraging research and development in water conservation systems,
 g.  Providing leadership on global water issues, including the
     protection of access to safe water for all.
 
-# 2.3
+## 2.3
 
 ### Climate change
 
@@ -542,7 +542,7 @@ b.  Creating a revenue-generating carbon market to ensure industry
 c.  Imposing strict energy efficiency and emissions standards for motor
     vehicles, appliances, and buildings.
 
-# 2.4
+## 2.4
 
 ### Energy
 
@@ -585,7 +585,7 @@ j.  Providing substantive support to workers in the transition to a
 k.  Providing substantive support to renewable energy co-operatives in
     recognition of the role they can play in tackling climate change.
 
-# 2.5
+## 2.5
 
 ### Food security and food sovereignty
 
