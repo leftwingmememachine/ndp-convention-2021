@@ -1,3 +1,66 @@
+Below is the [2018 NDP Constitution](https://xfer.ndp.ca/2020/documents/NDP%20Constitution%20-%202018%20%282020%29.pdf)
+with most of the formatting removed, and with an added table of contents.
+
+A variety of automated tools were used to convert this from its original
+PDF form into the below content. Because of this, its possible there may
+be errors. Sections may be mislabeled, there may be typos. I tried my best
+to correct those errors but there is no guarantee of correctness here.
+
+- [CONSTITUTION OF THE NEW DEMOCRATIC PARTY OF CANADA](#constitution-of-the-new-democratic-party-of-canada)
+- [PREAMBLE](#preamble)
+- [ARTICLE I - NAME](#article-i---name)
+- [ARTICLE II - DEFINITION AND INTERPRETATION](#article-ii---definition-and-interpretation)
+  * [Definitions](#definitions)
+  * [Interpretation](#interpretation)
+  * [Languages](#languages)
+- [ARTICLE III - MEMBERSHIP](#article-iii---membership)
+  * [1. Individual Membership](#1-individual-membership)
+  * [2. Affiliated Membership](#2-affiliated-membership)
+- [ARTICLE IV - FEES AND CONTRIBUTIONS](#article-iv---fees-and-contributions)
+- [ARTICLE V - CONVENTIONS](#article-v---conventions)
+  * [1. Timing and Location of Conventions](#1-timing-and-location-of-conventions)
+  * [2. Notice of Conventions](#2-notice-of-conventions)
+  * [3. Quorum at Conventions](#3-quorum-at-conventions)
+  * [4. Procedure at Conventions](#4-procedure-at-conventions)
+  * [5. Authority of Conventions](#5-authority-of-conventions)
+  * [6.  Delegates to Conventions](#6--delegates-to-conventions)
+    + [a.  Eligibility of Delegates and Credential Calculations](#a--eligibility-of-delegates-and-credential-calculations)
+    + [b.  Electoral District Association Delegates](#b--electoral-district-association-delegates)
+    + [c.  Affiliate Delegates](#c--affiliate-delegates)
+    + [d.  Youth Delegates](#d--youth-delegates)
+    + [e.  Delegate Entitlements](#e--delegate-entitlements)
+  * [7.  Resolutions at Convention](#7--resolutions-at-convention)
+    + [a.  Notice](#a--notice)
+    + [b.  Submission of Resolutions](#b--submission-of-resolutions)
+- [ARTICLE VI - OFFICERS](#article-vi---officers)
+  * [Composition](#composition)
+  * [2. Powers and Responsibilities of the Officers](#2-powers-and-responsibilities-of-the-officers)
+  * [3.  Elections and Appointment of Officers](#3--elections-and-appointment-of-officers)
+    + [(a) Leader](#-a--leader)
+    + [(b) President](#-b--president)
+    + [(c) Vice President](#-c--vice-president)
+    + [(d) Vice President Labour](#-d--vice-president-labour)
+    + [(e) Treasurer](#-e--treasurer)
+    + [(f) National Director](#-f--national-director)
+    + [(g)](#-g-)
+    + [(h)](#-h-)
+- [ARTICLE VII - EXECUTIVE](#article-vii---executive)
+- [ARTICLE VIII - COUNCIL](#article-viii---council)
+  * [1. Composition](#1-composition)
+  * [2. Powers and Responsibilities](#2-powers-and-responsibilities)
+- [ARTICLE IX - ELECTORAL DISTRICT ASSOCIATIONS](#article-ix---electoral-district-associations)
+  * [1. Description](#1-description)
+  * [2. Council of Electoral District Associations](#2-council-of-electoral-district-associations)
+- [ARTICLE X - COMMISSIONS](#article-x---commissions)
+- [ARTICLE XI - NEW DEMOCRATIC YOUTH](#article-xi---new-democratic-youth)
+- [ARTICLE XII - PROVINCIAL PARTIES](#article-xii---provincial-parties)
+- [ARTICLE XIII - QUEBEC](#article-xiii---quebec)
+- [ARTICLE XIV - DISCIPLINE](#article-xiv---discipline)
+- [ARTICLE XV - CANDIDATES](#article-xv---candidates)
+- [ARTICLE XVI - AMENDMENT](#article-xvi---amendment)
+- [APPENDIX - RULES OF PROCEDURE FOR PLENARY SESSIONS](#appendix---rules-of-procedure-for-plenary-sessions)
+- [RULES OF PROCEDURE FOR PANEL OR COMMITTEE SESSIONS](#rules-of-procedure-for-panel-or-committee-sessions)
+
 # CONSTITUTION OF THE NEW DEMOCRATIC PARTY OF CANADA
 
 EFFECTIVE FEBRUARY 2018
@@ -162,17 +225,17 @@ a.  Notice of Biennial Conventions will be sent to each Electoral
 
 b.  Notice of Special Conventions shall be determined by the Council.
 
-## Quorum at Conventions
+## 3. Quorum at Conventions
 
 A quorum for the transaction of business shall consist of not less
 than one-third of the total registered delegates at the Convention.
 
-## Procedure at Conventions
+## 4. Procedure at Conventions
 
 The rules of procedure at Conventions will be those described in the
 Appendix to this Constitution.
 
-##  Authority of Conventions
+## 5. Authority of Conventions
 
 Conventions are the supreme governing body of the Party and shall have
 final authority in all matters of federal policy, program and constitution.
@@ -568,7 +631,7 @@ g.  Deem a Council member resigned for failing to attend two successive
 The Electoral District Association is the primary organization through
 which the rights of the members of the Party are exercised.
 
-### 2. Council of Electoral District Associations
+## 2. Council of Electoral District Associations
 
 a.  Upon recognition by the Council, a provincial or regional grouping of electoral district associations shall be known as 
 Council of Electoral District Associations.
